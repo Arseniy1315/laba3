@@ -1,0 +1,117 @@
+body{
+    width: 960px;
+    margin: auto;
+    background-color:rgb(178, 249, 252);
+}
+
+
+#header{
+    text-align: center;
+
+    font-size: 16px;
+    font-family: Arial;
+}
+
+
+hr{
+   
+    border-color: black;
+}
+
+section{
+    overflow: auto;
+    height: 100%;
+    font-family: Arial;
+}
+h2{
+    text-align: left;
+    font-family: Arial;
+}
+#s1{
+    text-align: left;
+    font-size: 20px;
+    font-family: Arial;
+
+
+    
+}
+
+#s2{
+    text-align: left;
+    font-size: 20px;
+    font-family: Arial;
+}
+#s3{
+    text-align: left;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+p{
+    font-size: 18px;
+    font-family: Arial;
+
+}
+.column1{
+    width: 300px;
+    float:left;
+    margin: 10px;   
+    border-right:solid black;
+    border-width: 2px;
+    font-family: Arial;
+}
+.column2{
+    width: 300px;
+    float:left;
+    margin: 10px;   
+    font-family: Arial;
+}
+.column3{
+    width: 300px;
+    float:left;
+    margin: 10px;   
+    font-family: Arial;
+    
+}
+
+.head{
+    text-align: center;
+    
+}
+
+
+.style1 a{
+    color: #000;
+}
+.style2 a{
+    color: #000;
+}
+.style3 a{
+    color: #000;
+    
+}
+
+.style3 li{
+    display: block;
+    list-style-type: none;
+    margin: 10px;
+
+}
+
+a{
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 5px;
+    font-size: 14px;
+    font-family: Arial;
+   
+}
+
+.btn a{
+    display: block; width: 150px;;
+    background: whitesmoke;
+    color: black;
+    border: 1px solid gainsboro;
+    text-align: center;
+}
